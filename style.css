@@ -1,0 +1,19 @@
+body {
+
+    background-color: palegoldenrod;
+}
+
+h1 {
+    color: palegreen;
+}
+
+.text-blue {
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.text-red {
+    color: red;
+}
